@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nikitin_Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63c4487c8561d6012e602b3633d265cd92cb3fa5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b1c4b34fdb5af709598b7afa25429c3191e3f26")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nikitin_Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nikitin_Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
